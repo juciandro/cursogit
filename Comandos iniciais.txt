@@ -3,9 +3,13 @@ Iniciando Repositorio
 git init
 -Verificando Status
 git status
--Enviando arquivos para o repositorio
+-Adicionando arquivos
 --1 por vez
 git add nomeDoArquivo.extensão
 --tudo
 git add *
 git add -A
+-Enviando alterações para o git
+git commit -m "Primeiro commit"
+-Consultando logs
+git log
