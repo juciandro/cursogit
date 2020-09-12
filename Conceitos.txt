@@ -1,0 +1,7 @@
+Conceitos
+-O que é branch?
+Basicamente são versões diferentes do sistema em si, a principal é a master(por default)
+-O que é readme?
+Normalmente são informações
+-O que é commit?
+Uma/s nova/s alteração/s enviada para o git

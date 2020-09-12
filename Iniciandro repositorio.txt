@@ -1,3 +1,0 @@
-Iniciando Repositorio
--Inicia um repositorio
-git init
