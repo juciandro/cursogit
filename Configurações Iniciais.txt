@@ -1,0 +1,12 @@
+Curso de git
+Comandos git
+-Verificando a versão
+git --version
+-Configurando git
+git config --global user.name "Juciandro"
+git config --global user.email "juciandro59@gmail.com"
+git config --global core.editor sub
+-listando inforamações
+git config user.name
+ou listar tudo
+git config --lit
