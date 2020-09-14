@@ -1,0 +1,4 @@
+Revertendo Alterações
+-verificando as branch
+git branch
+*a que estiver com o * é a branch atual
