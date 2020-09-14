@@ -4,3 +4,7 @@ git branch
 *a que estiver com o * é a branch atual
 -fazendo commit e ja adicionado o arquivo para o git
 git commit -am "Novo arquivo adicionado"
+-Revertendo modificações
+git reset --soft
+git reset --mixed
+git reset --hard
