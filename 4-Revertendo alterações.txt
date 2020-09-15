@@ -8,3 +8,5 @@ git commit -am "Novo arquivo adicionado"
 git reset --soft
 git reset --mixed
 git reset --hard
+-revertendo alterações em um arquivo especifico
+git checkout HEAD -- nomeAquivo.extensão
