@@ -1,1 +1,5 @@
 Trabalhando diferentes branch
+-criando uma nova branch
+git branch nomeBranch
+-mudando para uma determinada branch
+git checkout nomeBranch
