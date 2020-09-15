@@ -1,0 +1,11 @@
+Conectando repositório local ao remoto
+-gerando a chave a key
+ssh-keygen -t rsa -b 4096 -C "seu-email@seu-servidor.com"
+confirmando, em seguida é só colocar essa chave no perfil em setting/SSH and GPG keys adicionado uma nova
+-clonando/conectando o repositorio remoto ao local
+git remote add origin https://github.com/juciandro/cursogit.git
+-checando
+git remote -v
+-enviando os arquivos para o repositorio remoto
+git push -u origin master
+-trazendo os arquivos para o repositorio local
